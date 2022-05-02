@@ -2,7 +2,7 @@
   "name": "matcha-plus",
   "displayName": "Matcha Plus",
   "description": "Matcha is a dark, earthy theme for VS Code. (Optimized for inlay hint)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "MagHSK",
   "icon": "assets/icon.png",
   "galleryBanner": {
@@ -29,6 +29,11 @@
         "label": "Matcha-Plus",
         "uiTheme": "vs-dark",
         "path": "./themes/matcha-color-theme.json"
+      },
+      {
+        "label": "Matcha-Plus Fallback",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matcha-color-theme-fallback.json"
       }
     ]
   },

@@ -2,14 +2,16 @@
 
 The color palette is designed to be energizing and improve focus while being easy on the eye.
 
+**Optimized for inlay hints.**
+
 ---
 
 #### Javascript
-![](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/theme-js.png)
+![](https://raw.githubusercontent.com/maghsk/matcha/master/assets/theme-js.png)
 
 #### CSS
-![](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/theme-css.png)
+![](https://raw.githubusercontent.com/maghsk/matcha/master/assets/theme-css.png)
 
 #### HTML
-![](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/theme-html.png)
+![](https://raw.githubusercontent.com/maghsk/matcha/master/assets/theme-html.png)
 
