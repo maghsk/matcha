@@ -1,9 +1,9 @@
 {
-  "name": "matcha",
-  "displayName": "Matcha",
-  "description": "Matcha is a dark, earthy theme for VS Code",
-  "version": "0.0.10",
-  "publisher": "lucafalasco",
+  "name": "matcha-plus",
+  "displayName": "Matcha Plus",
+  "description": "Matcha is a dark, earthy theme for VS Code. (Optimized for inlay hint)",
+  "version": "0.1.0",
+  "publisher": "MagHSK",
   "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#D1DED3",
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Matcha",
+        "label": "Matcha-Plus",
         "uiTheme": "vs-dark",
         "path": "./themes/matcha-color-theme.json"
       }
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucafalasco/matcha.git"
+    "url": "https://github.com/maghsk/matcha.git"
   },
-  "homepage": "https://github.com/lucafalasco/matcha/blob/master/README.md"
+  "homepage": "https://github.com/maghsk/matcha/blob/master/README.md"
 }
